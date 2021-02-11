@@ -1,3 +1,5 @@
+import java.awt.Color;
+
 public class Triange(){
     public Triangle(double x, double y, double w, double h){
       x_pos = x;

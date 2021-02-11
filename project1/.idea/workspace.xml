@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0487b9-9e9b-466a-93a3-c92106e9f327" name="Default Changelist" comment="">
-      <change beforePath="$CLASS_REPO$/Circle.java" beforeDir="false" />
-      <change beforePath="$CLASS_REPO$/Rectangle.java" beforeDir="false" />
-      <change beforePath="$CLASS_REPO$/Triangle.java" beforeDir="false" />
-      <change beforePath="$CLASS_REPO$/project1.iml" beforeDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/lab03_csci1933.iml" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/src/Histogram.java" afterDir="false" />
+      <change afterPath="$CLASS_REPO$/lab03_csci1933/src/HistogramApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.java" afterDir="false" />
     </list>
-    <list id="8e1ab6ed-2511-49dc-8f79-456fb755e1a6" name="Changes by ruchi" comment="" />
+    <list id="8e1ab6ed-2511-49dc-8f79-456fb755e1a6" name="Changes by ruchi" comment="">
+      <change beforePath="$PROJECT_DIR$/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Circle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
