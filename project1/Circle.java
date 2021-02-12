@@ -6,7 +6,7 @@ public class Circle(){
         x_pos = x;
         y_pos = y;
         radius = r;
-        return Circle(x_pos, y_pos, radius)
+        return Circle(x_pos, y_pos, radius);
     }
     public double calculatePerimeter(){
         return 2 * PI * radius;

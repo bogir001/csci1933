@@ -48,7 +48,7 @@ public class Triange(){
     }
 
     public double getWidth(){
-        reutrn width;
+        return width;
     }
 }
 
