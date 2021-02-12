@@ -1,6 +1,6 @@
 import java.awt.Color;
 
-public class Triange(){
+public class Triangle(){
     public Triangle(double x, double y, double w, double h){
       x_pos = x;
       y_pos = y;
@@ -8,11 +8,11 @@ public class Triange(){
       height = h;
 
     public double calculatePerimeter(){
-        return x_pos + y_pos + width
+        return x_pos + y_pos + width;
     }
 
     public double calculateArea(){
-        return width * height * 0.5
+        return width * height * 0.5;
     }
 
     public void setColor(Color c){
