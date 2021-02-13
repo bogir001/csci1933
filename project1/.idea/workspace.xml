@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0487b9-9e9b-466a-93a3-c92106e9f327" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FractalDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FractalDrawer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.java" afterDir="false" />
     </list>
     <list id="8e1ab6ed-2511-49dc-8f79-456fb755e1a6" name="Changes by ruchi" comment="">
-      <change beforePath="$PROJECT_DIR$/FractalDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/FractalDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,22 +14,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/FractalDrawer.java">
-      <ranges>
-        <range start1="5" end1="6" start2="5" end2="6" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="13" end1="14" start2="13" end2="14" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="15" end1="16" start2="15" end2="18" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="18" end1="19" start2="20" end2="22" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="21" end1="22" start2="24" end2="26" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="24" end1="25" start2="28" end2="29" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="28" end1="29" start2="32" end2="32" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="31" end1="37" start2="34" end2="49" changelist="be0487b9-9e9b-466a-93a3-c92106e9f327" />
-        <range start1="43" end1="43" start2="55" end2="64" changelist="8e1ab6ed-2511-49dc-8f79-456fb755e1a6" />
-        <range start1="48" end1="50" start2="69" end2="72" changelist="8e1ab6ed-2511-49dc-8f79-456fb755e1a6" />
-      </ranges>
-    </file>
   </component>
   <component name="ProjectId" id="1oDZkPrqVBXPjuRYNXK6BrvUhFF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">

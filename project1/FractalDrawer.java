@@ -34,7 +34,6 @@ public class FractalDrawer {
     // drawTriangleFractal draws a triangle fractal using recursive techniques
     public void drawTriangleFractal(double width, double height, double x, double y, Color c, Canvas can, int level) {
         //if (level == 0) return;
-
         //find the three midpoints. recursively call the triangle function 3 times,
         if (level > 0) {
             Triangle myTriangle = new Triangle(x, y);
